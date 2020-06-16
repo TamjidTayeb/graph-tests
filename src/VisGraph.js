@@ -22,7 +22,7 @@ function VisGraph() {
  
   const options = {
     layout: {
-      hierarchical: false
+      hierarchical: true
     },
     edges: {
       color: "#000000"
